@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Signup Bonus Casino</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+        .navbar {
+            background-color: #2c3e50;
+        }
+        .navbar-brand {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .hero {
+            background: url(image2.jpg) no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+            position: relative;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        .hero .container {
+            position: relative;
+            z-index: 2;
+        }
+        .hero h1 {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+        .hero p {
+            font-size: 1.5rem;
+            margin-bottom: 30px;
+        }
+        .games .card {
+            transition: transform 0.3s;
+        }
+        .games .card:hover {
+            transform: scale(1.05);
+        }
+        .footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .footer a {
+            color: #f1c40f;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="#">Free Signup Bonus</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Games</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Promotions</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="container">
+        <h1>Free Signup Bonus $500</h1>
+        <p>Join us now and get a free signup bonus!</p>
+        <a href="https://www.highrevenuenetwork.com/nhjjw7hw?key=b4a7bda1be0adb5c517092a3ef30db70" class="btn btn-primary btn-lg">Sign Up Now</a>
+    </div>
+</section>
+
+<!-- Games Section -->
+<section class="games py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="display-4">Our Games</h2>
+            <p class="lead">Experience the thrill of our top games</p>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="image3.jpg" class="card-img-top" alt="Slot Game">
+                    <div class="card-body">
+                        <h5 class="card-title">Slot Game</h5>
+                        <p class="card-text">Enjoy our exciting slot games with huge jackpots.</p>
+                        <a href="https://www.highrevenuenetwork.com/nhjjw7hw?key=b4a7bda1be0adb5c517092a3ef30db70" class="btn btn-primary">Play Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="image4.jpg" class="card-img-top" alt="Poker Game">
+                    <div class="card-body">
+                        <h5 class="card-title">Poker</h5>
+                        <p class="card-text">Join our poker tables and test your skills against others.</p>
+                        <a href="https://www.highrevenuenetwork.com/nhjjw7hw?key=b4a7bda1be0adb5c517092a3ef30db70" class="btn btn-primary">Play Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="image5.jpg" class="card-img-top" alt="Roulette Game">
+                    <div class="card-body">
+                        <h5 class="card-title">Roulette</h5>
+                        <p class="card-text">Try your luck at our roulette tables.</p>
+                        <a href="https://www.highrevenuenetwork.com/nhjjw7hw?key=b4a7bda1be0adb5c517092a3ef30db70" class="btn btn-primary">Play Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <p>&copy; 2024 Free Signup Bonus Casino. All rights reserved.</p>
+        <p><a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a></p>
+    </div>
+</footer>
+
+<!-- Bootstrap JavaScript -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
